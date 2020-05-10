@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is the screenshot masked with a round mask and frame. Centered on top of it sits the wheel artwork. A nice drop shadow has been applied to the wheel. This is to demonstrate the combination of mask and frame. -->
+<artwork>
+  <output type="screenshot" width="640" height="480">
+    <layer resource="screenshot" width="640" height="480" align="center" valign="middle">
+      <mask file="maskexample.png"/>
+      <frame file="frameexample.png"/>
+    </layer>
+    <layer resource="wheel" width="400" align="center" valign="middle">
+      <shadow distance="20" softness="5" opacity="70"/>
+    </layer>
+  </output>
+</artwork>

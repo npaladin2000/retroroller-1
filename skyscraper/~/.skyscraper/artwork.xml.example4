@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This shows the screenshot with low contrast with the wheel on top adjusted with high contrast and brightness -->
+<artwork>
+  <output type="screenshot" width="640" height="480">
+    <layer resource="screenshot" width="640" height="480">
+      <contrast value="-100"/>
+    </layer>
+    <layer resource="wheel" width="450" align="center" valign="middle">
+      <brightness value="20"/>
+      <contrast value="50"/>
+    </layer>      
+  </output>
+</artwork>
