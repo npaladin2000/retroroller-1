@@ -59,9 +59,13 @@ to contribute to.
 - NTFS support
 - Various performance optimizations
 
-## Upgrade Packages
+## Upgrade Packages from Command Line
 
-    sudo pacman -Syu
+    update-system
+    
+## Upgrade packages from EmulationStation
+
+   Open RetroArch menu and select UpdateSystem
 
 Be sure to check out any .pacnew files created and merge them.
 
