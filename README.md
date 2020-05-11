@@ -51,6 +51,18 @@ run this image at your own risk!</i>
 | F1 + R1               | Save state            |
 | F1 + F6               | Exit RetroArch from game |
 
+### DraStic
+
+| Key                   | Action                |
+| --------------------- |-----------------------|
+| F1                    | Menu                  |
+| F2                    | Swap screen layout    |
+| F3                    | Switch to single screen | 
+| F4                    | Touch screen          |
+| F5                    | Swap screens          |
+| F6                    | Start                 |
+| Analog stick          | Move stylus on touch screen |
+
 ## General Setup
 
 - Download additional cores in RetroArch online updater
