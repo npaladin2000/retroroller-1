@@ -46,7 +46,6 @@ to contribute to.
 
 - Download additional cores in RetroArch online updater
 - Edit `~/.emulationstation/es_systems.cfg` to configure more ES systems
-- Additional themes can be placed in `~/.emulationstation/themes` or via SMB: `odroid/.emulationstation/themes`
 - Rolling distribution (hopefully will never have to re-image)
 - 64-bit OS but RetroArch32 was ported to work solely to have fast PSX
 - Check retroarch config settings if you want to know where everything goes
