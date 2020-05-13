@@ -1,5 +1,2 @@
-##Place in /roms/sh
-##/bin/bash
-ifconfig wlan0 | grep inet
-read -p "Press enter to continue"
-exit
+exec ifconfig wlan0 | grep inet && read -n 1 -r -s -p $"Press any key to exit" && "$@"
+## place in /roms/sh
